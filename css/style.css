@@ -327,6 +327,9 @@ header .navbar ul li:hover{
         background-image: none !important;
         height: 340px;
     }
+    .bannerPart{
+        margin-top: 64px;
+    }
 }
 @media (max-width: 640px) {
     .carousel-inner div{
