@@ -10,7 +10,7 @@
 大屏幕图：
 ![weijinsuo](https://Fiona-SUN.github.io/photos/weijinsuo-big.png)
 
-超小屏幕图：
+超小屏幕图(截图效果有点损坏)：
 
 ![weijinsuo](https://Fiona-SUN.github.io/photos/weijinsuo-small.png)
 
