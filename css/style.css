@@ -778,6 +778,9 @@ header .navbar ul li:hover{
 .loan3-list .red_one .item-features dt, .loan3-list .red_one .item-title .dt{
     color: #fff;
 }
+.loan3-list .item-features dl{
+    margin-bottom: 0;
+}
 .loan3-list .item-title {
     position: relative;
     float: right;
